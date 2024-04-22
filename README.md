@@ -22,3 +22,5 @@ With the described variables, we will conduct exploratory data analysis to under
 5. Once performance is assessed, integrate the model and predictions into a web-app. 
 Decide on the visualizations of the data (box-plot, graph, scatter-plot). Highlight the outliers. Write descriptions of the model in the app.
 `Until Due Date`
+
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/NNGdeqASFWU/0.jpg)](https://www.youtube.com/watch?v=NNGdeqASFWU)
